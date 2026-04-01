@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow specific routes if any
+# Disallow: /api/
+# Disallow: /private/
+
+# Sitemap location
+Sitemap: https://naheraldana.com/sitemap.xml
