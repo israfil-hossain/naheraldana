@@ -99,7 +99,7 @@ export default function RootLayout({
     description: 'Professional Event Management, IT & Electronics Solutions in Dubai',
     url: SITE_URL,
     logo: `${SITE_URL}/images/logo.png`,
-    email: 'naheraldana@gmail.com',
+    email: 'naherproject@gmail.com',
     contactPoint: {
       '@type': 'ContactPoint',
       telephone: '+971554470608',
@@ -141,7 +141,7 @@ export default function RootLayout({
     name: 'Naher Aldana Project Management Services',
     image: `${SITE_URL}/images/logo.png`,
     description: 'Event Management, IT Products Supply, and Electronics Solutions in Dubai',
-    email: 'naheraldana@gmail.com',
+    email: 'naherproject@gmail.com',
     address: {
       '@type': 'PostalAddress',
       streetAddress: 'Office No. 101, King Hamad Mohammed Abdulrahman, Al-Bahr - Al-Khabisi - 155',

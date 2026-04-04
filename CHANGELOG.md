@@ -27,7 +27,7 @@
      - CTA Section
      - WhatsApp Button
      - Structured Data
-   - ✅ **Email Address**: Updated to `naheraldana@gmail.com` throughout site
+   - ✅ **Email Address**: Updated to `naherproject@gmail.com` throughout site
      - Footer
      - Contact Section
      - Structured Data
@@ -143,7 +143,7 @@ The website is now production-ready with:
 ## 📞 Current Contact Information
 
 - **Phone**: +971 55 447 0608
-- **Email**: naheraldana@gmail.com
+- **Email**: naherproject@gmail.com
 - **Address**: Office No. 101, King Hamad Mohammed Abdulrahman, Al-Bahr - Al-Khabisi - 155, Dubai, U.A.E
 
 ## 🎯 Next Steps

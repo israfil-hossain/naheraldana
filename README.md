@@ -79,7 +79,7 @@ Update the following variables:
 
 Contact information is managed in constants within component files:
 - **Phone**: `+971554470608`
-- **Email**: `naheraldana@gmail.com`
+- **Email**: `naherproject@gmail.com`
 
 Update these in:
 - `components/navbar.tsx`
@@ -143,7 +143,7 @@ Ensure the platform supports Next.js 16 and Node.js 18+.
 ## 📞 Contact
 
 - **Phone**: +971 55 447 0608
-- **Email**: naheraldana@gmail.com
+- **Email**: naherproject@gmail.com
 - **Address**: Office No. 101, King Hamad Mohammed Abdulrahman, Al-Bahr - Al-Khabisi - 155, Dubai, U.A.E
 
 ## 📄 License

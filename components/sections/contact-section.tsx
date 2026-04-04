@@ -9,7 +9,7 @@ import { Card, CardContent } from "@/components/ui/card"
 
 const PHONE_NUMBER = "+971554470608"
 const PHONE_DISPLAY = "+971 55 447 0608"
-const EMAIL_ADDRESS = "naheraldana@gmail.com"
+const EMAIL_ADDRESS = "naherproject@gmail.com"
 
 const contactInfo = [
   {

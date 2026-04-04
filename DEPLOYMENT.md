@@ -45,7 +45,7 @@
 ```
 NEXT_PUBLIC_SITE_URL=https://your-domain.com
 NEXT_PUBLIC_PHONE_NUMBER=+971554470608
-NEXT_PUBLIC_EMAIL_ADDRESS=naheraldana@gmail.com
+NEXT_PUBLIC_EMAIL_ADDRESS=naherproject@gmail.com
 ```
 
 ### Netlify
@@ -246,7 +246,7 @@ Check logs:
 
 For issues or questions:
 - Phone: +971 55 447 0608
-- Email: naheraldana@gmail.com
+- Email: naherproject@gmail.com
 
 ## Security Best Practices
 

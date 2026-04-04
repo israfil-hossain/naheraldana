@@ -6,7 +6,7 @@
 - [ ] Copy `.env.local.example` to `.env.local`
 - [ ] Update `NEXT_PUBLIC_SITE_URL` with production domain
 - [ ] Verify phone number: `+971554470608`
-- [ ] Verify email address: `naheraldana@gmail.com`
+- [ ] Verify email address: `naherproject@gmail.com`
 - [ ] Add Google Analytics ID if available
 - [ ] Add social media URLs if available
 
@@ -76,5 +76,5 @@ Ensure platform supports:
 
 ## Contact Information
 - Phone: +971 55 447 0608
-- Email: naheraldana@gmail.com
+- Email: naherproject@gmail.com
 - Address: Office No. 101, King Hamad Mohammed Abdulrahman, Al-Bahr - Al-Khabisi - 155, Dubai, U.A.E
