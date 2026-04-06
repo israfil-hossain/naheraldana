@@ -189,16 +189,6 @@ export function ContactSection() {
               </Card>
             ))}
             
-            {/* Map Placeholder */}
-            <Card className="overflow-hidden">
-              <div className="aspect-[4/3] bg-gradient-to-br from-muted to-muted/50 flex items-center justify-center">
-                <div className="text-center p-6">
-                  <MapPin className="w-12 h-12 text-primary/50 mx-auto mb-3" />
-                  <p className="text-sm text-muted-foreground">Google Maps Embed</p>
-                  <p className="text-xs text-muted-foreground">Dubai, UAE</p>
-                </div>
-              </div>
-            </Card>
           </div>
         </div>
       </div>

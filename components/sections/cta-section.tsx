@@ -37,7 +37,7 @@ export function CTASection() {
                 <ArrowRight className="ml-2 w-5 h-5" />
               </Link>
             </Button>
-            <Button asChild size="lg" variant="outline" className="text-base min-w-[200px] border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10">
+            <Button asChild size="lg" variant="outline" className="text-black min-w-[200px] border-primary-foreground/30 hover:bg-primary-foreground/10">
               <Link href={`tel:${PHONE_NUMBER}`}>
                 <Phone className="mr-2 w-5 h-5" />
                 Call: {PHONE_DISPLAY}
