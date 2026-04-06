@@ -25,7 +25,7 @@ const industries = [
     icon: GraduationCap,
     title: "Educational Institutions",
     description: "IT labs, audio-visual equipment, and educational technology solutions.",
-    image: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=400&q=80",
+    image: "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=400&q=80",
   },
   {
     icon: Hotel,
